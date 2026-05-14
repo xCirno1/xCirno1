@@ -30,7 +30,7 @@
 
 - 🐧 I've been programming for around 7 years (before LLMs appear)
 - 🔩 If the world ends, my biggest regret is not coding enough yet
-- 📐 I genuinely enjoy reading CVE proof-of-concepts for fun
+- 📐 I enjoy reading CVE proof-of-concepts for fun
 
 ---
 
