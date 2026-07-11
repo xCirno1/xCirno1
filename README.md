@@ -9,7 +9,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -26,15 +26,17 @@
 
 ---
 
-## ⚡ Fun Facts
+## 🛠️ Projects
 
-- 🐧 I've been programming for around 7 years (before LLMs appear)
-- 🔩 If the world ends, my biggest regret is not coding enough yet
-- 📐 I enjoy reading CVE proof-of-concepts for fun
+*   **[xCirno Labs](https://xcirno.dev)**: My main website landing page and personal blogging system.
+*   **[Cirno Cloud](https://cloud.xcirno.dev)**: Providing various cloud services for my other projects (open for free public use).
+*   **[Search Toolkit](https://github.com/xCirno1/search-toolkit)**: A Chrome extension for tracking web history and modifying Google Search results.
+*   **[Vertra](https://github.com/xcirno-labs/vertra)**: A native Rust and WebAssembly rendering engine built for high-performance, cross-platform usage across Desktop and Web.
+*   **[WRC](https://github.com/xCirno1/WRC)**: An Android application built to control an Arduino robot over Bluetooth Low Energy (BLE), tested on the HC-06 module.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
