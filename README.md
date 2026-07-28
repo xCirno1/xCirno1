@@ -32,7 +32,8 @@
 *   **[Cirno Cloud](https://cloud.xcirno.dev)**: Providing various cloud services for my other projects (open for free public use).
 *   **[Search Toolkit](https://github.com/xCirno1/search-toolkit)**: A Chrome extension for tracking web history and modifying Google Search results.
 *   **[Vertra](https://github.com/xcirno-labs/vertra)**: A native Rust and WebAssembly rendering engine built for high-performance, cross-platform usage across Desktop and Web.
-*   **[WRC](https://github.com/xCirno1/WRC)**: An Android application built to control an Arduino robot over Bluetooth Low Energy (BLE), tested on the HC-06 module.
+*   **[WRC](https://github.com/xCirno1/WRC)**: An Android application built to control an Arduino robot over SPP/RFCOMM & BLE/GATT, tested on the HC-06 module.
+*   **[Trade Arena](https://tradearena.dev)**: A platform which benchmarks trading bots across live and historical markets, real strategies, ranked on a leaderboard, and replayed trade by trade. 
 
 ---
 
