@@ -1,11 +1,93 @@
-
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=xCirno&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=xCirno%20%7C%20CS%20%40%20UNSW%20%7C%20Building%20Cool%20Stuff&descAlignY=58&descSize=18&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+from+the+ground+up+%F0%9F%94%A7;Neural+Networks+%E2%86%92+Sofware+Engineering;First-Year+UNSW+CS+%7C+Low-Level+Fanatic)](https://git.io/typing-svg)
-
+  <img src="assets/technology-city-banner.png" width="100%" alt="banner" />
 </div>
+
+## Hi, I'm xCirno
+
+*I’m a full-stack developer. Although when I'm not shipping applications, I spend my time researching neural networks and studying quantum engineering.* 
+
+[![GitHub](https://img.shields.io/badge/xCirno1-0a2540?style=for-the-badge&logo=github&logoColor=90E0EF)](https://github.com/xCirno1)
+[![Website](https://img.shields.io/badge/xcirno.dev-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xcirno.dev)
+
+---
+
+## About me
+
+<img align="left" width="290" hspace="24" vspace="6" src="assets/software-developer-portrait.png" alt="portrait" />
+
+Name: **xCirno**<br>
+Residing in: **Sydney, Australia**<br>
+Studying: **Computer Science at UNSW**<br>
+Into: **Systems Programming, Neural Networks, Web Applications & more!**<br>
+Currently: **working on side projects between lectures**<br>
+Language: **Indonesia, English**
+<br><br><br><br><br><br><br>
+
+*Probably compiling something...*
+
+
+*or*
+
+*studying...*
+
+Who knows?
+<br clear="left" />
+
+---
+
+## Experience
+
+<img align="right" width="290" hspace="24" vspace="6" src="assets/technology-stack.png" alt="side art" />
+
+- First-year CS student who spends more time on personal repos than on assignments.
+- I like knowing how things work all the way down, so I write my own renderer instead of importing one, talk to hardware over raw Bluetooth instead of using an app, and host my own cloud instead of renting one.
+- I work across the whole stack: Rust and C at the low level, TypeScript and React on the web, Arduino and Android in between.
+- Previously worked on automated deployment systems and AI integration prototypes.
+
+<br clear="right" />
+
+---
+
+## Tech
+
+<img align="left" width="290" hspace="24" vspace="6" src="assets/exploded-keyboard-microcontroller.png" alt="side art" />
+
+**Languages**
+
+![Rust](https://img.shields.io/badge/Rust-0a2540?style=for-the-badge&logo=rust&logoColor=90E0EF)
+![C](https://img.shields.io/badge/C-023E8A?style=for-the-badge&logo=c&logoColor=CAF0F8)
+![Python](https://img.shields.io/badge/Python-0077B6?style=for-the-badge&logo=python&logoColor=CAF0F8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0096C7?style=for-the-badge&logo=typescript&logoColor=CAF0F8)
+
+**Web and runtime**
+
+![WebAssembly](https://img.shields.io/badge/WebAssembly-00B4D8?style=for-the-badge&logo=webassembly&logoColor=0a2540)
+![React](https://img.shields.io/badge/React-48CAE4?style=for-the-badge&logo=react&logoColor=0a2540)
+![Node.js](https://img.shields.io/badge/Node.js-0096C7?style=for-the-badge&logo=nodedotjs&logoColor=CAF0F8)
+
+**Systems and tools**
+
+![Linux](https://img.shields.io/badge/Linux-0a2540?style=for-the-badge&logo=linux&logoColor=90E0EF)
+![Arduino](https://img.shields.io/badge/Arduino-0077B6?style=for-the-badge&logo=arduino&logoColor=CAF0F8)
+![Android](https://img.shields.io/badge/Android-023E8A?style=for-the-badge&logo=android&logoColor=CAF0F8)
+![Git](https://img.shields.io/badge/Git-0096C7?style=for-the-badge&logo=git&logoColor=CAF0F8)
+
+<br clear="left" />
+
+---
+
+## Projects
+
+<img align="right" width="290" hspace="24" vspace="6" src="assets/wireframe-globe.png" alt="side art" />
+
+- **[Vertra](https://github.com/xcirno-labs/vertra)**: a rendering engine written in Rust and compiled to WebAssembly, so it runs fast on both desktop and web.
+- **[Trade Arena](https://tradearena.dev)**: benchmarks trading bots on live and historical markets, with a ranked leaderboard and trade by trade replays.
+- **[Cirno Cloud](https://cloud.xcirno.dev)**: cloud services that run my other projects. Free and open for public use.
+- **[xCirno Labs](https://xcirno.dev)**: my landing page and personal blogging system.
+- **[WRC](https://github.com/xCirno1/WRC)**: an Android app that controls an Arduino robot over SPP/RFCOMM and BLE/GATT, tested on the HC-06.
+- **[Search Toolkit](https://github.com/xCirno1/search-toolkit)**: a Chrome extension for tracking web history and changing Google Search results.
+- more coming soon...
+<br clear="right" />
 
 ---
 
@@ -26,30 +108,18 @@
 
 ---
 
-## 🛠️ Projects
+## Contact
 
-*   **[xCirno Labs](https://xcirno.dev)**: My main website landing page and personal blogging system.
-*   **[Cirno Cloud](https://cloud.xcirno.dev)**: Providing various cloud services for my other projects (open for free public use).
-*   **[Search Toolkit](https://github.com/xCirno1/search-toolkit)**: A Chrome extension for tracking web history and modifying Google Search results.
-*   **[Vertra](https://github.com/xcirno-labs/vertra)**: A native Rust and WebAssembly rendering engine built for high-performance, cross-platform usage across Desktop and Web.
-*   **[WRC](https://github.com/xCirno1/WRC)**: An Android application built to control an Arduino robot over SPP/RFCOMM & BLE/GATT, tested on the HC-06 module.
-*   **[Trade Arena](https://tradearena.dev)**: A platform which benchmarks trading bots across live and historical markets, real strategies, ranked on a leaderboard, and replayed trade by trade. 
+<img align="right" width="250" hspace="24" vspace="6" src="assets/glowing-paper-plane.png" alt="side art" />
 
----
+Feel free to reach out about anything I build.
 
-## Let's Connect
+[![Email](https://img.shields.io/badge/Email-kei%40xcirno.dev-00B4D8?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kei@xcirno.dev)
+[![Website](https://img.shields.io/badge/Website-xcirno.dev-0077B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xcirno.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-xCirno1-48CAE4?style=for-the-badge&logo=github&logoColor=0a2540)](https://github.com/xCirno1)
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kei@xcirno.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xCirno1)
-
-</div>
-
----
+<br clear="right" />
 
 <div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,55:0077b6,100:0a2540&height=120&section=footer" alt="" />
 </div>
