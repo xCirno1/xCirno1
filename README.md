@@ -1,8 +1,5 @@
-<div align="center">
-  <img src="assets/technology-city-banner.png" width="100%" alt="banner" />
-</div>
-
-## Hi, I'm xCirno
+<!-- TODO: Add banner maybe -->
+<img src="assets/headings/hi-im-xcirno.svg" height="58" alt="Hi, I’m xCirno" />
 
 *I’m a full-stack developer. Although when I'm not shipping applications, I spend my time researching neural networks and studying quantum engineering.* 
 
@@ -11,9 +8,9 @@
 
 ---
 
-## About me
+<img src="assets/headings/about-me.svg" height="58" alt="About me" />
 
-<img align="left" width="290" hspace="24" vspace="6" src="assets/software-developer-portrait.png" alt="portrait" />
+<img align="left" width="290" hspace="24" vspace="6" src="assets/icon-about.png" alt="Cute icy question marks" />
 
 Name: **xCirno**<br>
 Residing in: **Sydney, Australia**<br>
@@ -21,23 +18,18 @@ Studying: **Computer Science at UNSW**<br>
 Into: **Systems Programming, Neural Networks, Web Applications & more!**<br>
 Currently: **working on side projects between lectures**<br>
 Language: **Indonesia, English**
-<br><br><br><br><br><br><br>
-
-*Probably compiling something...*
-
-
-*or*
-
-*studying...*
-
-Who knows?
+<br>
+<br><br>
+"<i>The hardest thing to do is to create a simple solution</i>"
+<br>
+— Someone
 <br clear="left" />
 
 ---
 
-## Experience
+<img src="assets/headings/experience.svg" height="58" alt="Experience" />
 
-<img align="right" width="290" hspace="24" vspace="6" src="assets/technology-stack.png" alt="side art" />
+<img align="right" width="290" hspace="24" vspace="6" src="assets/icon-experience.png" alt="Cute icy calendar, notes, and pencil" />
 
 - First-year CS student who spends more time on personal repos than on assignments.
 - I like knowing how things work all the way down, so I write my own renderer instead of importing one, talk to hardware over raw Bluetooth instead of using an app, and host my own cloud instead of renting one.
@@ -48,9 +40,9 @@ Who knows?
 
 ---
 
-## Tech
+<img src="assets/headings/tech.svg" height="58" alt="Tech" />
 
-<img align="left" width="290" hspace="24" vspace="6" src="assets/exploded-keyboard-microcontroller.png" alt="side art" />
+<img align="left" width="290" hspace="24" vspace="6" src="assets/icon-tech.png" alt="Cute icy code window and gear" />
 
 **Languages**
 
@@ -76,9 +68,9 @@ Who knows?
 
 ---
 
-## Projects
+<img src="assets/headings/projects.svg" height="58" alt="Projects" />
 
-<img align="right" width="290" hspace="24" vspace="6" src="assets/wireframe-globe.png" alt="side art" />
+<img align="right" width="290" hspace="24" vspace="6" src="assets/icon-projects.png" alt="Cute icy project box and puzzle pieces" />
 
 - **[Vertra](https://github.com/xcirno-labs/vertra)**: a rendering engine written in Rust and compiled to WebAssembly, so it runs fast on both desktop and web.
 - **[Trade Arena](https://tradearena.dev)**: benchmarks trading bots on live and historical markets, with a ranked leaderboard and trade by trade replays.
@@ -91,7 +83,9 @@ Who knows?
 
 ---
 
-## GitHub Stats
+<img src="assets/headings/github-stats.svg" height="58" alt="GitHub Stats" />
+
+<img align="right" width="240" hspace="24" vspace="6" src="assets/icon-github-stats.png" alt="Cute icy rising statistics chart" />
 
 <div align="center">
 
@@ -106,11 +100,13 @@ Who knows?
 
 </div>
 
+<br clear="right" />
+
 ---
 
-## Contact
+<img src="assets/headings/contact.svg" height="58" alt="Contact" />
 
-<img align="right" width="250" hspace="24" vspace="6" src="assets/glowing-paper-plane.png" alt="side art" />
+<img align="right" width="250" hspace="24" vspace="6" src="assets/icon-contact.png" alt="Cute icy envelope and speech bubble" />
 
 Feel free to reach out about anything I build.
 
