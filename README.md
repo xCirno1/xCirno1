@@ -10,8 +10,6 @@
 
 <img src="assets/headings/about-me.svg" height="58" alt="About me" />
 
-<img align="left" width="290" hspace="24" vspace="6" src="assets/icon-about.png" alt="Cute icy question marks" />
-
 Name: **xCirno**<br>
 Residing in: **Sydney, Australia**<br>
 Studying: **Computer Science at UNSW**<br>
@@ -29,8 +27,6 @@ Language: **Indonesia, English**
 
 <img src="assets/headings/experience.svg" height="58" alt="Experience" />
 
-<img align="right" width="290" hspace="24" vspace="6" src="assets/icon-experience.png" alt="Cute icy calendar, notes, and pencil" />
-
 - First-year CS student who spends more time on personal repos than on assignments.
 - I like knowing how things work all the way down, so I write my own renderer instead of importing one, talk to hardware over raw Bluetooth instead of using an app, and host my own cloud instead of renting one.
 - I work across the whole stack: Rust and C at the low level, TypeScript and React on the web, Arduino and Android in between.
@@ -41,8 +37,6 @@ Language: **Indonesia, English**
 ---
 
 <img src="assets/headings/tech.svg" height="58" alt="Tech" />
-
-<img align="left" width="290" hspace="24" vspace="6" src="assets/icon-tech.png" alt="Cute icy code window and gear" />
 
 **Languages**
 
@@ -70,8 +64,6 @@ Language: **Indonesia, English**
 
 <img src="assets/headings/projects.svg" height="58" alt="Projects" />
 
-<img align="right" width="290" hspace="24" vspace="6" src="assets/icon-projects.png" alt="Cute icy project box and puzzle pieces" />
-
 - **[Vertra](https://github.com/xcirno-labs/vertra)**: a rendering engine written in Rust and compiled to WebAssembly, so it runs fast on both desktop and web.
 - **[Trade Arena](https://tradearena.dev)**: benchmarks trading bots on live and historical markets, with a ranked leaderboard and trade by trade replays.
 - **[Cirno Cloud](https://cloud.xcirno.dev)**: cloud services that run my other projects. Free and open for public use.
@@ -85,8 +77,6 @@ Language: **Indonesia, English**
 
 <img src="assets/headings/github-stats.svg" height="58" alt="GitHub Stats" />
 
-<img align="right" width="240" hspace="24" vspace="6" src="assets/icon-github-stats.png" alt="Cute icy rising statistics chart" />
-
 <div align="center">
 
 <img height="180em" src="https://github-stats-extended.vercel.app/api?username=xCirno1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
@@ -96,7 +86,7 @@ Language: **Indonesia, English**
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xCirno1&theme=tokyonight&hide_border=true&background=0D1117&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xCirno1&theme=tokyonight&hide_border=true&background=0D1117&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
@@ -105,8 +95,6 @@ Language: **Indonesia, English**
 ---
 
 <img src="assets/headings/contact.svg" height="58" alt="Contact" />
-
-<img align="right" width="250" hspace="24" vspace="6" src="assets/icon-contact.png" alt="Cute icy envelope and speech bubble" />
 
 Feel free to reach out about anything I build.
 
