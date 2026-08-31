@@ -68,7 +68,7 @@ Language: **Indonesia, English**
 - **[Trade Arena](https://tradearena.dev)**: benchmarks trading bots on live and historical markets, with a ranked leaderboard and trade by trade replays.
 - **[Cirno Cloud](https://cloud.xcirno.dev)**: cloud services that run my other projects. Free and open for public use.
 - **[xCirno Labs](https://xcirno.dev)**: my landing page and personal blogging system.
-- **[WRC](https://github.com/xCirno1/WRC)**: an Android app that controls an Arduino robot over SPP/RFCOMM and BLE/GATT, tested on the HC-06.
+- **[Bluetooth Serial Controller](https://github.com/xCirno1/BluetoothSerialController)**: an Android app that controls an Arduino robot over SPP/RFCOMM and BLE/GATT.
 - **[Search Toolkit](https://github.com/xCirno1/search-toolkit)**: a Chrome extension for tracking web history and changing Google Search results.
 - more coming soon...
 <br clear="right" />
